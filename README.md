@@ -1,2 +1,3 @@
-# aburymichael.github.io
-http://aburymichael.co.za
+# Michael Atterbury
+
+A place to note my work on the web
